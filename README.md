@@ -32,3 +32,6 @@ A professional School Management System developed using Java Swing.
 
 Ahmer
 Software Engineering Student
+## 📸 Screenshots
+
+Screenshots are available in the *screenshots* folder.
