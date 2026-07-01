@@ -27,7 +27,24 @@ A professional School Management System developed using Java Swing.
 1. Download the project.
 2. Open it in NetBeans, Eclipse, or IntelliJ IDEA.
 3. Run `SchoolManagementSystem.java`.
+## 🚀 How to Run
 
+### Requirements
+- Java 17 or later installed
+
+### Steps
+
+1. Download `SchoolManagementSystem.jar`
+2. Double-click the JAR file
+
+OR run from Command Prompt:
+
+```bash
+java -jar SchoolManagementSystem.jar
+```
+
+If Java is not installed, download it from:
+https://www.oracle.com/java/technologies/downloads/
 ## 👨‍💻 Author
 
 Ahmer
