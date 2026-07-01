@@ -35,9 +35,7 @@ Software Engineering Student
 ## 📸 Screenshots
 
 Screenshots are available in the *screenshots* folder.
-## 📸 Screenshot
 
-![School Management System](dashboard.png)
 ## Author
 
 *Ahmer*
